@@ -251,7 +251,7 @@ panel.add(text)
 state_bar.place(relx = 0, rely = 0.92 , relwidth = 0.999 , relheight = 0.1 ) 
 """Events"""
 
-root.bind("<Control-b>" ,lambda : threading.Thread(target = run).start())
+root.bind("<F5>" ,lambda : threading.Thread(target = run).start())
 root.bind("<F2>" , run_js)
 root.bind("<Control-d>" ,delete)
 root.bind("<Control-s>" ,save_e)
