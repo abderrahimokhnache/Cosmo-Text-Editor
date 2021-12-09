@@ -6,3 +6,4 @@ te made for **Python and Java script**
 
 > - run files within the te *if it doesn't work check shell.json file*
 > - three themes ***bright , dark , black***
+> - used my own modules like fileop, config_tk & center_tk & _entry 
