@@ -8,4 +8,4 @@ te made for **Python and Java script**
 > - three themes ***bright , dark , black***
 > - used my own modules like fileop, config_tk & center_tk & _entry 
 
-### the config_tk and center_tk moduels are made for optimizing tkinter to look 
+### the config_tk and center_tk moduels are made for optimizing tkinter to look modren
