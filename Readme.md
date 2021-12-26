@@ -5,7 +5,7 @@
 ## 1 : the look
 
 
-> there's three themes *dark,white,black* the last theme used will be saved in theme.con
+> there's three themes *dark,white,black* the latest theme used will be saved in theme.con
 > 
 <img src="https://github.com/astroxiii/Cosmo-Text-Editor/blob/master/readme_img/dark.png" width="450"/>
 <img src="https://github.com/astroxiii/Cosmo-Text-Editor/blob/master/readme_img/black.png" width="300"/>
