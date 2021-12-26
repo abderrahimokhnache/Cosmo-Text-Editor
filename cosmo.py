@@ -192,8 +192,8 @@ def about_page():
 	myself = """\
 cosmo 1.1.0
 for information contact :
-author : abdulrahim mokhnache
-email :rahimcdm@gmail.com
+author : abderrahim mokhnache
+email :abderrahimokhnache@gmail.com
 	"""
 	# question, or warning
 	msg._show("about" , myself ,"info" ,"ok")
